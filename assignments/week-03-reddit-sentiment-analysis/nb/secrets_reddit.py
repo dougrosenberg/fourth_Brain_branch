@@ -1,0 +1,4 @@
+
+REDDIT_API_CLIENT_ID = "c4Xbq5ZebK2gQYabuawVzg"
+REDDIT_API_CLIENT_SECRET = '3k5AcMKinajbksyEnuObc8b64B_rAw'
+REDDIT_API_USER_AGENT = "My User Agent"
